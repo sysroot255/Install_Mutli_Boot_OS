@@ -365,7 +365,7 @@
 
 ---
 
-[Let's try some extra customization](https://gitea.86thumbs.net/Abdellah/Multiboot_os/src/branch/master/step6_extra_customization_grub_pamac_others.md)
+[Let's try some extra customization](https://github.com/sysroot255/Install_Mutli_Boot_OS/blob/master/step6_extra_customization_grub_pamac_others.md)
 
 
 
