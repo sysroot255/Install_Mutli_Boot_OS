@@ -49,7 +49,7 @@
 
 ---
 
-[So let's prepare EFI Partition](https://gitea.86thumbs.net/Abdellah/Multiboot_os/src/branch/master/step2_create_EFI_partition_for_all_systems.md)
+[So let's prepare EFI Partition](https://github.com/sysroot255/Install_Mutli_Boot_OS/blob/master/step2_create_EFI_partition_for_all_systems.md)
 
 
 
