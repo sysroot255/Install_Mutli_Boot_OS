@@ -43,4 +43,4 @@
 
 ---
 
-[Let's move on to installing Debian 10](https://gitea.86thumbs.net/Abdellah/Multiboot_os/src/branch/master/step4_install_Debian_buster_server_with_swap.md)
+[Let's move on to installing Debian 10](https://github.com/sysroot255/Install_Mutli_Boot_OS/blob/master/step4_install_Debian_buster_server_with_swap.md)
