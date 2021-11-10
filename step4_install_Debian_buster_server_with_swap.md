@@ -263,4 +263,4 @@
 
 ---
 
-[Let's move on to installing Archlinux with GRUB](https://gitea.86thumbs.net/Abdellah/Multiboot_os/src/branch/master/step5_install_Archlinux_with_grub_and_desktop_environnement.md)
+[Let's move on to installing Archlinux with GRUB](https://github.com/sysroot255/Install_Mutli_Boot_OS/blob/master/step5_install_Archlinux_with_grub_and_desktop_environnement.md)
